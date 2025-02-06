@@ -13,6 +13,7 @@ def is_boolean_field(series):
         {'no'},
         {'y'},
         {'n'},
+        {'true', 'false'},
         {'true'},
         {'false'}
     ]
